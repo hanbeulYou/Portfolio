@@ -1,8 +1,37 @@
-## 🍿 Pang! Party
+## 🍪 Biscuit
 
 ### 🗓 기간
 
-- 2022.01.03 ~ 2023.02.27 (7주)
+- 2022.02.20 ~ 2023.04.07 (7주)
+
+### 👥 역할
+
+- 팀 구성 : FE 3, BE 3
+- 역할 : Team Lead, Frontend Engineer
+
+### 🛠 사용 기술
+
+- React, Recoil, React-query, Typescript, TailwindCSS
+
+### 💻 세부 내용
+
+- Git Convention, Coding Convention 설정, Jira를 활용한 이슈 관리
+- Feature Flags를 활용한 trunk 기반 개발 방식
+- React-query를 활용한 API 전역 접근, Vite 빌드 도구 마이그레이션, 컨텐츠 조회 시간 측정 로직
+
+### 📝 기록
+
+|      name      |                          repository                          |                 readme                  |
+| :------------: | :----------------------------------------------------------: | :-------------------------------------: |
+| 비스킷 | [biscuit](https://github.com/biscuit-today/v1-frontend) | [README](https://github.com/biscuit-today) |
+
+<br><br>
+
+## 🎉 Pang! Party
+
+### 🗓 기간
+
+- 2022.01.03 ~ 2023.02.17 (7주)
 
 ### 👥 역할
 
@@ -24,7 +53,7 @@
 
 |      name      |                          repository                          |                 readme                  |
 | :------------: | :----------------------------------------------------------: | :-------------------------------------: |
-| 팡파레(FE) | [pangparty](https://github.com/nyong-nyong/pangparty-fe) | [README](https://github.com/nyong-nyong) |
+| 팡파레(FE) | [pangparty-fe](https://github.com/nyong-nyong/pangparty-fe) | [README](https://github.com/nyong-nyong) |
 
 <br><br>
 
