@@ -1,3 +1,35 @@
+# Studies
+
+## 🖥️ Frontend Study
+
+|   Class  |    name    |                               repository                                 |                 description                 |
+| :------: | :--------: | :----------------------------------------------------------------------: | :-----------------------------------------: |
+| Frontend | Typescript | [Typescript-Study](https://github.com/hanbeulYou/typescript-study)       | Inflearn 타입스크립트 입문 강의 실습          |
+| Frontend | Recoil     | [Recoil-Study](https://github.com/hanbeulYou/recoil-study)               | Recoil 공식 문서 실습                        |
+| Frontend | Redux      | [Redux-Study](https://github.com/hanbeulYou/redux-study)                 | 생활코딩 Redux 강의 실습                     |
+| Frontend | Javascript | [SSYWORLD](https://github.com/hanbeulYou/SSYWORLD)                       | 바닐라JS를 활용한 정적 Page 구현              |
+| Frontend | Javascript | [JS-Practice](https://github.com/hanbeulYou/JS_Practice)                 | 노마드코더 바닐라JS로 크롬앱 만들기            |
+
+
+## 🧠 Algorithm Study
+
+|   Class   |         name         |                               repository                                 |                 description                 |
+| :-------: | :------------------: | :----------------------------------------------------------------------: | :-----------------------------------------: |
+| Algorithm | Javascript-Algorithm | [JS_Algorithm_Solved](https://github.com/hanbeulYou/JS_Algorithm_Solved) | Programmers 등 Javascript 알고리즘 문제 풀이  |
+| Algorithm | Python-Algorithm     | [Algorithm-Solve](https://github.com/hanbeulYou/Algorithm_Solve)         | BOJ, Programmers 등 Python 알고리즘 문제 풀이 |
+| Algorithm | SWEA-Python-Study    | [SWEA-Python-Study](https://github.com/hanbeulYou/SWEA-Python-Study)     | SWEA Python 알고리즘 스터디                  |
+
+## 🎓 Eductaion
+
+|   Class   |       name       |                                 repository                                 |      description       |
+| :-------: | :--------------: | :------------------------------------------------------------------------: | :--------------------: |
+| Education | Woowa-PreCourse  | [woowacourse-projects](https://github.com/hanbeulYou/woowacourse-projects) | 우아한테크코스 프리코스  |
+| Education | 42Seoul-7th      | [42_Piscine](https://github.com/hanbeulYou/42_Piscine)                     | 42서울 7기 라피신 과정  |
+
+<br><br><br>
+
+# Projects
+
 ## 🍪 Biscuit
 
 ### 🗓 기간
