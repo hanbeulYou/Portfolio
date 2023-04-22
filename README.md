@@ -19,6 +19,12 @@
 | Algorithm | Python-Algorithm     | [Algorithm-Solve](https://github.com/hanbeulYou/Algorithm_Solve)         | BOJ, Programmers 등 Python 알고리즘 문제 풀이 |
 | Algorithm | SWEA-Python-Study    | [SWEA-Python-Study](https://github.com/hanbeulYou/SWEA-Python-Study)     | SWEA Python 알고리즘 스터디                  |
 
+## 🖥 Computer Science Study
+
+|      Class      |   name   |                       repository                   |             description            |
+| :-------------: | :------: | :------------------------------------------------: | :--------------------------------: |
+| ComputerScience | CS-Study | [CS-Study](https://github.com/hanbeulYou/CS_STUDY) | 기초 CS 및 네트워크 관련 도서 스터디  |
+
 ## 🎓 Eductaion
 
 |   Class   |       name       |                                 repository                                 |      description       |
