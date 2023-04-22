@@ -1,3 +1,9 @@
+# Resume
+
+https://bit.ly/hanbeulYou
+
+<br>
+
 # Studies
 
 ## 🖥️ Frontend Study
@@ -33,7 +39,7 @@
 | Education | Woowa-PreCourse  | [woowacourse-projects](https://github.com/hanbeulYou/woowacourse-projects) | 우아한테크코스 프리코스  |
 | Education | 42Seoul-7th      | [42_Piscine](https://github.com/hanbeulYou/42_Piscine)                     | 42서울 7기 라피신 과정  |
 
-<br><br><br>
+<br>
 
 # Projects
 
@@ -64,7 +70,7 @@
 | :---: | :----------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 | 비스킷 | [biscuit-fe](https://github.com/biscuit-today/v1-frontend)   | [README](https://github.com/biscuit-today/.github/blob/main/profile/README.md) |
 
-<br><br>
+<br>
 
 ## 🎉 Pang! Party
 
@@ -94,7 +100,7 @@
 | :--------: | :----------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | 팡파레(FE) | [pangparty-fe](https://github.com/nyong-nyong/pangparty-fe)  | [README](https://github.com/nyong-nyong/.github/blob/main/profile/README.md) |
 
-<br><br>
+<br>
 
 ## 🍿 Young-Duck
 
@@ -118,6 +124,6 @@
 
 ### 📝 기록
 
-|      name      |                          repository                          |                 readme                  |
-| :------------: | :----------------------------------------------------------: | :-------------------------------------: |
+| name |                       repository                       |                                   readme                                |
+| :--: | :----------------------------------------------------: | :---------------------------------------------------------------------: |
 | 영덕 | [young-duck](https://github.com/hanbeulYou/young-duck) | [README](https://github.com/hanbeulYou/young-duck/blob/master/README.md) |
