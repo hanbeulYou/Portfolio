@@ -59,9 +59,9 @@
 
 ### 📝 기록
 
-|      name      |                          repository                          |                 readme                  |
-| :------------: | :----------------------------------------------------------: | :-------------------------------------: |
-| 비스킷 | [biscuit-fe](https://github.com/biscuit-today/v1-frontend) | [README](https://github.com/biscuit-today) |
+| name  |                          repository                          |                                    readme                                       |
+| :---: | :----------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| 비스킷 | [biscuit-fe](https://github.com/biscuit-today/v1-frontend)   | [README](https://github.com/biscuit-today/.github/blob/main/profile/README.md) |
 
 <br><br>
 
@@ -89,9 +89,9 @@
 
 ### 📝 기록
 
-|      name      |                          repository                          |                 readme                  |
-| :------------: | :----------------------------------------------------------: | :-------------------------------------: |
-| 팡파레(FE) | [pangparty-fe](https://github.com/nyong-nyong/pangparty-fe) | [README](https://github.com/nyong-nyong) |
+|    name    |                          repository                          |                                  readme                                      |
+| :--------: | :----------------------------------------------------------: | :--------------------------------------------------------------------------: |
+| 팡파레(FE) | [pangparty-fe](https://github.com/nyong-nyong/pangparty-fe)  | [README](https://github.com/nyong-nyong/.github/blob/main/profile/README.md) |
 
 <br><br>
 
