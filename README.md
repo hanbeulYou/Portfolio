@@ -14,6 +14,7 @@ https://bit.ly/hanbeulYou
 | Frontend | Typescript   | [Typescript-Study](https://github.com/hanbeulYou/typescript-study)       | Inflearn-타입스크립트 입문 강의 실습            |
 | Frontend | Recoil       | [Recoil-Study](https://github.com/hanbeulYou/recoil-study)               | Recoil 공식 문서 실습                          |
 | Frontend | Redux        | [Redux-Study](https://github.com/hanbeulYou/redux-study)                 | 생활코딩-Redux 강의 실습                       |
+| Frontend | React        | [Ract-Study](https://github.com/hanbeulYou/inflearn-follow-react)        | Inflearn-따라하며 배우는 리액트 A-Z             |
 | Frontend | Javascript   | [SSYWORLD](https://github.com/hanbeulYou/SSYWORLD)                       | 바닐라JS를 활용한 정적 Page 구현                |
 | Frontend | Javascript   | [JS-Practice](https://github.com/hanbeulYou/JS_Practice)                 | 노마드코더-바닐라JS로 크롬앱 만들기              |
 
