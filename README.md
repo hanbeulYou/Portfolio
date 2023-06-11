@@ -1,6 +1,6 @@
 # Resume
 
-https://bit.ly/hanbeulYou
+https://bit.ly/hanbeul_You
 
 <br>
 
